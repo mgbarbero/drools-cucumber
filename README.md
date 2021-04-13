@@ -36,6 +36,6 @@ The test will print out the rule(s) fired with execution stats. A cucumber repor
 
 
 # Reference
-- [Drools Support](https://github.com/anair-it/drools-support)
+- [Drools Support](https://github.com/mgbarbero/drools-support)
 - [Cucumber](https://cucumber.io/docs)
 - [Cucumber reporting](https://github.com/damianszczepanik/maven-cucumber-reporting)
